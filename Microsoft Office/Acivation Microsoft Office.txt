@@ -1,0 +1,15 @@
+1 tắt hết tất cả phần mềm diệt virut trong máy ( windows defender , bkav...) 
+truy cập ulr sau : https://github.com/massgravel/Microsoft-Activation-Scripts 
+Phương pháp 1 - PowerShell (Được khuyến nghị)
+Trên Windows 8.1/10/11, nhấp chuột phải vào menu bắt đầu của Windows và chọn PowerShell hoặc Terminal (Không phải CMD).
+Sao chép-dán mã bên dưới và nhấn enter
+irm https://massgrave.dev/get | iex
+Bạn sẽ thấy các tùy chọn kích hoạt và làm theo hướng dẫn trên màn hình.
+Đó là tất cả.
+Cách 2 - Truyền thống
+Tải tập tin từ đây : https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip
+Nhấp chuột phải vào tệp zip đã tải xuống và giải nén
+Trong thư mục giải nén, tìm thư mục có tênAll-In-One-Version
+Chạy tệp có tênMAS_AIO.cmd
+Bạn sẽ thấy các tùy chọn kích hoạt và làm theo hướng dẫn trên màn hình.
+Đó là tất cả.
