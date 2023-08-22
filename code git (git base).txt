@@ -1,4 +1,4 @@
-1 create a file .git ( must have an account in github.com) 
+	1 create a file .git ( must have an account in github.com) 
 => left click => open git bash here => (remember to view all file) 
 1: (for setup in first time) 
 Open git bash in windows => type this command: "git config --global user.email johndoe@example.com" => enter => type "git config --global user.email johndoe@example.com" 
