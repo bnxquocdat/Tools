@@ -12,4 +12,5 @@ Nhấp chuột phải vào tệp zip đã tải xuống và giải nén
 Trong thư mục giải nén, tìm thư mục có tênAll-In-One-Version
 Chạy tệp có tênMAS_AIO.cmd
 Bạn sẽ thấy các tùy chọn kích hoạt và làm theo hướng dẫn trên màn hình.
-Đó là tất cả. (nhớ gia hạn licences nha ae)
+Đó là tất cả. (nhớ gia hạn licences nha ae) 
+Update : https://download.com.vn/microsoft-office-2019-124603 (link tải office 2019) các phiên bản khác thì có hết bên đó
