@@ -1,0 +1,16 @@
+1 create a file .git ( must have an account in github.com) 
+=> left click => open git bash here => (remember to view all file) 
+1: (for setup in first time) 
+Open git bash in windows => type this command: "git config --global user.email johndoe@example.com" => enter => type "git config --global user.email johndoe@example.com" 
+remember to change your personal information ! 
+To check if you have done this , look to 2 line that have your personal information in this ! 
+Alright , now you have to go this url : https://github.com/ , create a repo => chose the line 6 and copy it ! 
+go to folder you want to upload to git and open gitbash 
+type : 
+git init 
+(paste the line you have been copied) 
+git remote -v 
+git add . 
+git commit -m"the short information you want to mark the file" 
+git push origin master 
+=> done :))
